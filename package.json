@@ -1,0 +1,12 @@
+{
+  "name": "getstuff",
+  "version": "1.0.0",
+  "description": "A platform for hostlers , pg students and people living in flat to buy and sell their used products",
+  "license": "ISC",
+  "author": "Riya Sharma",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
